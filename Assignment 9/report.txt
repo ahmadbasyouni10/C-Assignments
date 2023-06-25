@@ -1,0 +1,2 @@
+The time interval is: 0
+Total raindrops above 2.0 is: 3.0
