@@ -1,9 +1,0 @@
-Linear model: 
-Freezing temperature = -0.10 salinity + 32.03
-salinity(ppt)		freezingtemperature
-3.00               31.74
-8.50               31.20
-19.00               30.18
-23.50               29.74
-26.80               29.42
-30.50               29.06
